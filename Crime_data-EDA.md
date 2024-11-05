@@ -1,4 +1,5 @@
-# Exploring the crime data
+# Mapping the crime data
+The datasets were processed in python and then mapped in QGIS
 
 1. Total crimes reported 2021
 ![Total crimes reported rate](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/Police_MSOA_files/maps/total-rate.png)
