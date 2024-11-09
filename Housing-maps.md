@@ -6,13 +6,13 @@ The datasets were processed in python and then mapped in QGIS
 ![House price per square metre](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/hpsm.png)
 
 ## Tenure
-![Owned](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/tenure-owned.png)
+<img src= "housing_files/housing-maps/tenure-owned.png" width="450">
 Percentage of owned dwellings, including with and without mortgage.
 
-![private](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/tenure-private.png)
+<img src= "housing_files/housing-maps/tenure-private.png" width="450">
 Percentage of private rent dwellings.
 
-![private](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/tenure-social.png)
+<img src= "housing_files/housing-maps/tenure-social.png" width="450">
 Percentage of social rent dwellings.
 
 ![Tenure clusters](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/tenure-clusters.png)
@@ -22,7 +22,7 @@ Sources: Nomis TS054: Tenure, Nomis RM204: Number of dwellings, and ONS, Open ge
 
 
 ## Accommodation type
-![Houses](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/actypes-houses.png)
+<img src= "housing_files/housing-maps/actypes-houses.png" width="450">
 Percentage of households living in houses.
 
 ![Houses](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/actypes-flats.png)
