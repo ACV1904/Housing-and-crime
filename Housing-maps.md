@@ -25,10 +25,10 @@ Sources: Nomis TS054: Tenure, Nomis RM204: Number of dwellings, and ONS, Open ge
 <img src= "housing_files/housing-maps/actypes-houses.png" width="450">
 Percentage of households living in houses.
 
-![Houses](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/actypes-flats.png)
+<img src= "housing_files/housing-maps/actypes-flats.png" width="450">
 Percentage of households living in flats.
 
-![Houses](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/actypes-other.png)
+<img src= "housing_files/housing-maps/actypes-other.png" width="450">
 Percentage of households living in other type of accommodation (part of a converted house, commercial or other building, caravans and temporary structures).
 
 ![Accommodation clusters](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/housing_files/housing-maps/accommodation-clusters.png)
