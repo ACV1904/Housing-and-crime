@@ -15,5 +15,5 @@ The maps were visualised in QGIS:<br />
 [Crime_data-maps](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/Crime_data-maps.md) and 
 [Housing_maps](https://github.com/ACV1904/Housing-and-crime/blob/main/Housing-maps.md)
 
-Some of the results can be seen in the files [Tables](https://github.com/ACV1904/Housing-and-crime/blob/main/Results.md)
+Some of the results of the analysis can be seen in the files [Tables](https://github.com/ACV1904/Housing-and-crime/blob/main/Results.md)
 and [Presentation](https://github.com/ACV1904/Housing-and-crime/blob/main/Presentation.pdf)
