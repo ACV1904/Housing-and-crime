@@ -11,4 +11,6 @@ The implementation was done in Jupyter notebook files, 4 of them to prepare the 
 
 The files used and sources are explained in the file [read_ipynb_files](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/read_ipynb_files.md)
 
-The maps were visualised in QGIS: [Crime_data-maps](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/Crime_data-maps.md)
+The maps were visualised in QGIS:<br />
+[Crime_data-maps](https://github.com/ACV1904/Housing-conditions-and-crime/blob/main/Crime_data-maps.md) and 
+[Housing_maps](https://github.com/ACV1904/Housing-and-crime/blob/main/Housing-maps.md)
