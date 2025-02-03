@@ -31,10 +31,11 @@ The file was used to process the downloaded datasets from the Nomis website, inc
 - 'ts011-deprived.csv' from [Nomis TS011: Households by deprivation dimensions](https://www.nomisweb.co.uk/datasets/c2021ts011) 
 - 'accommodationtype.csv' from [Nomis TS044: Accommodation type](https://www.nomisweb.co.uk/datasets/c2021ts044)
 
-**Analysis.ipynb**
-The file was used to do all the analyses between variables. 
+
+**Correlation-analysis-OLS.ipynb** on [correlation](https://github.com/ACV1904/Housing-and-crime/blob/main/Correlation-analysis-OLS.ipynb)
+
+The file was used to do the correlation analyses between variables. 
 It uses the following files:
-- 'London_MSOA.shp' produced in shapeMSOA.ipynb
 - 'dcrl.csv' produced in police_msoa.ipynb
 - 'deprivation-rates.csv' produced in housing.ipynb
 - 'hpsm.csv' produced in  hpsm.ipynb
@@ -42,4 +43,20 @@ It uses the following files:
 - 'vacants.csv' produced in housing.ipynb
 - 'accommodation-rates.csv' produced in housing.ipynb
 - 'enc-vars.csv' produced in housing.ipynb
+
+
+**Spatial-analysis.ipynb** on [Spatial](https://github.com/ACV1904/Housing-and-crime/blob/main/Spatial-analysis.ipynb)
+
+The file was used to do the spatial analyses between variables. 
+It uses the following files:
+- 'London_MSOA.shp' produced in shapeMSOA.ipynb
 - 'Distance-Westminster018.csv' produced in QGIS using the file 'London_MSOA.shp'
+
+Apart from the previously used:
+- 'dcrl.csv' produced in police_msoa.ipynb
+- 'deprivation-rates.csv' produced in housing.ipynb
+- 'hpsm.csv' produced in  hpsm.ipynb
+- 'tenure-rates.csv' produced in housing.ipynb
+- 'vacants.csv' produced in housing.ipynb
+- 'accommodation-rates.csv' produced in housing.ipynb
+- 'enc-vars.csv' produced in housing.ipynb
