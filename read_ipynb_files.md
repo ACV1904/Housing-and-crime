@@ -32,7 +32,7 @@ The file was used to process the downloaded datasets from the Nomis website, inc
 - 'accommodationtype.csv' from [Nomis TS044: Accommodation type](https://www.nomisweb.co.uk/datasets/c2021ts044)
 
 
-**Correlation-analysis-OLS.ipynb** on [correlation](https://github.com/ACV1904/Housing-and-crime/blob/main/Correlation-analysis-OLS.ipynb)
+**Correlation-analysis-OLS.ipynb** on [correlation-file](https://github.com/ACV1904/Housing-and-crime/blob/main/Correlation-analysis-OLS.ipynb)
 
 The file was used to do the correlation analyses between variables. 
 It uses the following files:
@@ -45,7 +45,7 @@ It uses the following files:
 - 'enc-vars.csv' produced in housing.ipynb
 
 
-**Spatial-analysis.ipynb** on [Spatial](https://github.com/ACV1904/Housing-and-crime/blob/main/Spatial-analysis.ipynb)
+**Spatial-analysis.ipynb** on [Spatial-file](https://github.com/ACV1904/Housing-and-crime/blob/main/Spatial-analysis.ipynb)
 
 The file was used to do the spatial analyses between variables. 
 It uses the following files:
